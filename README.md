@@ -4,6 +4,8 @@
 >
 > 借助 Colaboratory，您可以编写和执行代码、保存和共享分析结果，以及利用强大的计算资源，所有这些都可通过浏览器免费使用。
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VXenomac/Tensorflow-2.0-Playground-with-Colab/blob/master/)
+
 ## Google Colab 相关
 
 * [在 Colab 中获取设备信息并挂载 Google Drive](https://drive.google.com/open?id=1OZx2ExQZ-pHdi5CWTXq724TTyb9CmCTY)
